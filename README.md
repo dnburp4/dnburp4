@@ -14,6 +14,7 @@ A public end-to-end pipeline for a **missing parts analysis** (mock SAP-like dat
 
 ### Find me
 [Portfolio](https://dnicob.me)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnicolasburbanop)
 
 🇩🇪 German (C1) · English (B2) · Spanish (native)

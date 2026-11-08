@@ -1,4 +1,4 @@
-# Hi, I'm Nicolás 👋
+# Hi, I'm Nicolás
 
 Business Informatin Systems student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
 
@@ -17,4 +17,4 @@ A public end-to-end pipeline for a **missing parts analysis** (mock SAP-like dat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnicolasburbanop)
 
-🇩🇪 German (C1) · English (B2) · Spanish (native)
+German (C1) · English (B2) · Spanish (native)

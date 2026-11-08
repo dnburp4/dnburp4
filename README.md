@@ -6,7 +6,7 @@ Currently writing my bachelor thesis at **Aesculap AG (B. Braun Group)** on a st
 
 ### What I work with
 - **At work:** SQL Server databases for supply chain KPIs, Python ETL/ELT scripts, SAP data, Power BI, Power Automate
-- **Learning / building:** dbt, Airflow, Docker (self-hosted homelab), Azure & Databricks basics
+- **Learning / building:** dbt, Airflow, Docker, Azure & Databricks basics
 
 ### Currently building
 A public end-to-end pipeline for a **missing parts analysis** (mock SAP-like data → dbt medallion layers → Airflow → report), recreating a real supply chain use case without internal data.

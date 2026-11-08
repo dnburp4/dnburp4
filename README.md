@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas
+# Hi, I'm Nicolás
 
 Business Informatin Systems student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
 

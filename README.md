@@ -1,6 +1,6 @@
 # Hi, I'm Nicolás 👋
 
-Business Informatics student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
+Business Informatin Systems Student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
 
 Currently writing my bachelor thesis at **Aesculap AG (B. Braun Group)** on a standardized data engineering approach for supply chain analytics.
 

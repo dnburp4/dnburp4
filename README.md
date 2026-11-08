@@ -6,7 +6,6 @@ Currently writing my bachelor thesis at **Aesculap AG (B. Braun Group)** on a st
 
 ### What I work with
 - **At work:** SQL Server databases for supply chain KPIs, Python ETL/ELT scripts, SAP data, Power BI, Power Automate
-- **Migrated** a supply chain scorecard from a legacy Access/VBA setup to a SQL Server + Power BI stack
 - **Learning / building:** dbt, Airflow, Docker (self-hosted homelab), Azure & Databricks basics
 
 ### Currently building

@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nicolás 👋
 
-<!--
-**dnburp4/dnburp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Informatics student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
 
-Here are some ideas to get you started:
+Currently writing my bachelor thesis at **Aesculap AG (B. Braun Group)** on a standardized data engineering approach for supply chain analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- **At work:** SQL Server databases for supply chain KPIs, Python ETL/ELT scripts, SAP data, Power BI, Power Automate
+- **Migrated** a supply chain scorecard from a legacy Access/VBA setup to a SQL Server + Power BI stack
+- **Learning / building:** dbt, Airflow, Docker (self-hosted homelab), Azure & Databricks basics
+
+### Currently building
+A public end-to-end pipeline for a **missing parts analysis** (mock SAP-like data → dbt medallion layers → Airflow → report), recreating a real supply chain use case without internal data.
+
+### Find me
+[Portfolio](https://dnicob.me) · [LinkedIn](https://www.linkedin.com/in/dnicolasburbanop)
+
+🇩🇪 German (C1) · English (C1) · Spanish (native)

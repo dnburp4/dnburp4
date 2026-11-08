@@ -1,6 +1,6 @@
 # Hi, I'm Nicolás 👋
 
-Business Informatin Systems Student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
+Business Informatin Systems student (B.Sc., HTWG Konstanz) focused on **data engineering for supply chain analytics**.
 
 Currently writing my bachelor thesis at **Aesculap AG (B. Braun Group)** on a standardized data engineering approach for supply chain analytics.
 
@@ -15,4 +15,4 @@ A public end-to-end pipeline for a **missing parts analysis** (mock SAP-like dat
 ### Find me
 [Portfolio](https://dnicob.me) · [LinkedIn](https://www.linkedin.com/in/dnicolasburbanop)
 
-🇩🇪 German (C1) · English (C1) · Spanish (native)
+🇩🇪 German (C1) · English (B2) · Spanish (native)
